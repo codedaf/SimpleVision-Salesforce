@@ -4,8 +4,6 @@ SimpleVision is a marketing agency specialized in client management, offering so
 
 ## SimpleVision - Salesforce Implementation 🚀  
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://travis-ci.org)  
-
 ## Table of Contents
 - [Project Description](#project-description)
 - [Objective of Salesforce](#objective-of-salesforce-at-simplevision)
@@ -18,6 +16,9 @@ SimpleVision is a marketing agency specialized in client management, offering so
 SimpleVision is a marketing agency specializing in managing clients who require social media management and website development services. To improve project management and sales tracking, we have acquired Salesforce.  
 
 This repository documents the configuration and customization of Salesforce for our needs, providing guides and practical examples for administration.
+
+For more details about our learning process and certifications, check out our **[Trailhead Project](curious-narwhal-t9qchv-dev-ed.trailblaze.my.salesforce.com)**.
+
 
 ## Objective of Salesforce at SimpleVision  
 The primary goal of this implementation is to optimize:
@@ -69,12 +70,8 @@ To get started with Salesforce configuration for SimpleVision:
 
 5. **Automate a Basic Process:**  
    - Set up a Flow for automatic opportunity assignment.
+  
+6. ## Contact
+Feel free to reach out to me for questions or collaboration opportunities:  
+📧 [fernandez.diego10@gmail.com](mailto:your.email@example.com)
 
-## 🤝 Contributing  
-We welcome contributions! To contribute to this project:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature`).
-3. Commit your changes (`git commit -am 'Add new feature'`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Open a Pull Request.
