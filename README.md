@@ -2,11 +2,9 @@
 SimpleVision is a marketing agency specialized in client management, offering social media management and website development services.
 
 
-# ![SimpleVision Logo](url_del_logo)  
 ## SimpleVision - Salesforce Implementation 🚀  
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://travis-ci.org)  
-[![License](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/MIT)  
 
 ## Table of Contents
 - [Project Description](#project-description)
@@ -48,3 +46,35 @@ Throughout this project, we will address key configuration and daily usage examp
    - Setting up dashboards for performance analysis.
 
 ## Repository Structure  
+/simplevision-salesforce │── /docs # Documentation and step-by-step guides │── /config # Exported configurations (profiles, permissions, metadata) │── /examples # Practical use cases │── /src # Apex code, Flows, and automations │── README.md # Main document
+
+
+
+## Getting Started  
+To get started with Salesforce configuration for SimpleVision:
+
+1. **Access Trailhead:**  
+   - Sign up and complete the basic administrator modules.
+
+2. **Set Up the Environment:**  
+   - Create a Salesforce Developer account.  
+   - Configure the role and profile structure.
+
+3. **Define Key Objects:**  
+   - Customize standard objects like *Accounts*, *Contacts*, *Opportunities*, and *Projects*.
+
+4. **Create Initial Records:**  
+   - Add test accounts and contacts.  
+   - Create opportunities and assign them to a sales rep.
+
+5. **Automate a Basic Process:**  
+   - Set up a Flow for automatic opportunity assignment.
+
+## 🤝 Contributing  
+We welcome contributions! To contribute to this project:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/your-feature`).
+3. Commit your changes (`git commit -am 'Add new feature'`).
+4. Push to the branch (`git push origin feature/your-feature`).
+5. Open a Pull Request.
