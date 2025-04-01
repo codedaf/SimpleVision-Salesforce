@@ -1,1 +1,31 @@
+Project: Task Management System
 
+Description:
+This project is a web application designed for task management. It allows users to create, edit, delete, and mark tasks as complete. It is designed to be user-friendly and efficient, with a simple interface and a robust backend.
+
+Notes:
+- User authentication is still under development.
+- The feature to export tasks to CSV format is pending.
+- The database performance needs optimization in future versions.
+
+Pending tasks:
+- Improve the user interface design to make it more attractive.
+- Add the option to attach files to each task.
+- Fix issues with the integration of the external API.
+- Implement a notification system for pending tasks.
+
+Installation Instructions:
+1. Clone the repository with the command:
+   git clone https://github.com/your_username/your_repository.git
+2. Install the dependencies using 'npm install' (make sure you have Node.js installed).
+3. Run the server with 'npm start' to launch the application.
+
+License:
+This project is licensed under the MIT License.
+
+**Fictional Data**:
+All users, tasks, and any other data in this project are entirely fictional. This system is not connected to any real database, and all data is randomly generated for demonstration purposes.
+
+Example of fictional data:
+- User: John Doe (Email: john.doe@example.com)
+- Task: "Review system code" (Status: Pending)
