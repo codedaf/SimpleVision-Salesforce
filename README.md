@@ -17,7 +17,7 @@ SimpleVision is a marketing agency specializing in managing clients who require 
 
 This repository documents the configuration and customization of Salesforce for our needs, providing guides and practical examples for administration.
 
-For more details about our learning process and certifications, check out our **[Trailhead Project](curious-narwhal-t9qchv-dev-ed.trailblaze.my.salesforce.com)**.
+For more details about our learning process and certifications, check out our **[Trailhead Project](https://www.salesforce.com/trailblazer/g22ajnr11vnterxkrl)**.
 
 
 ## Objective of Salesforce at SimpleVision  
